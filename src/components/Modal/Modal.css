@@ -54,3 +54,21 @@
         transform: translateY(200%);
     }
 }
+
+/* 
+.fade-in-out-enter {
+    opacity: 0;
+    animation: openModal 0.4s ease-in-out forwards;
+}
+
+.fade-in-out-enter-active {
+    opacity: 1;
+}
+
+.fade-in-out-exit {
+    animation: closeModal 1s ease-in-out forwards;
+}
+
+.fade-in-out-exit-active {
+    opacity: 0;
+} */
